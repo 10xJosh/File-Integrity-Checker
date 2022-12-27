@@ -12,4 +12,6 @@ Available hashing algorithms are:
 
 ![FileIntegrityChecker](https://user-images.githubusercontent.com/55113224/209627494-eba9b9e1-c40f-4563-bff5-e27bcf1d4b2a.gif)
 
-Simply click on the browse button, select a file and click verify!
+Simply click on the browse button, select a file and click verify! The executable can be found in the .zip file.
+
+
